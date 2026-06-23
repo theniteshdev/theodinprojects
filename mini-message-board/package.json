@@ -1,0 +1,11 @@
+{
+    "name": "mini-message-board",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "node --watch index.js"
+    },
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
